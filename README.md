@@ -56,7 +56,7 @@ The Compose project is CLI-generated, so this repo ships the operational files a
 
 One instance keeps its data under `~/.config/kortix/self-host/<instance>/`: `volumes/db/data` is the Postgres database, `volumes/storage` is file storage, and `.env` holds every secret and signing key. Back up all three; there is no separate backup service.
 
-Each API container has a 640 MiB memory limit by default. Keep it on an 8 GiB host. On a 16 GiB host, raise it when API traffic hits the limit with `kortix self-host env set KORTIX_API_MEMORY_LIMIT=1024m`, and confirm with `docker stats --no-stream`.
+Each API container has a 640 MiB memory limit by default. Keep it on an 8 GiB host. On a 16 GiB host, raise it when API traffic hits the limit with `kortix self-host env set KORTIX_API_MEMORY_LIMIT=1024m`, and confirm with `docker stats --no-stream`. What else the machine needs before an install, and what it does not, is covered in the [self-hosted platform requirements](https://opensourceaiagentplatform.com/self-hosted-ai-agent-platform-requirements).
 
 ## How a deployment runs work
 
