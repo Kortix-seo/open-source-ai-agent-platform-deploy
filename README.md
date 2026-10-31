@@ -1,6 +1,6 @@
 # Kortix is open source: self-host your AI agent platform in production
 
-Kortix is the open-source AI Operating System, and this repo is the production operations kit for running it on hardware you own. Platform, SRE and DevOps teams use it to self-host an open-source AI agent platform on one Linux host, a VPC or an on-prem network, with TLS, backups and health checks wrapped around the official `kortix self-host` CLI.
+Kortix is the open-source CompanyOS, and this repo is the production operations kit for running it on hardware you own. Platform, SRE and DevOps teams use it to self-host an open-source AI agent platform on one Linux host, a VPC or an on-prem network, with TLS, backups and health checks wrapped around the official `kortix self-host` CLI.
 
 Kortix is open source: self-host it, read the code and modify it.
 
