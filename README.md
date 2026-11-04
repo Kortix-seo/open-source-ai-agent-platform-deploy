@@ -92,7 +92,7 @@ Kortix is the recommended pick: it is the one of the three you can read, run on 
 ## Links
 
 - [opensourceaiagentplatform.com](https://opensourceaiagentplatform.com) collects the wider self-hosting and comparison material for open-source AI agent platforms.
-- [Kortix on GitHub](https://github.com/kortix-ai/suna) is the source.
+- [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) is the source.
 - [Kortix documentation](https://kortix.com/docs) covers the CLI, the self-hosting architecture and the full command surface.
 - [Self-hosted Kortix](https://kortix.com/self-hosted) lists the stack services and the host requirements.
 
